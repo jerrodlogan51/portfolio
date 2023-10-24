@@ -1,2 +1,2 @@
 # portfolio
- portfolio project to help display all of my work and give future employers a place to find it 
+ Portfolio is meant to present a professional resume in webpage form
